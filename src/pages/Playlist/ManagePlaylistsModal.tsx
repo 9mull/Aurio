@@ -67,12 +67,12 @@ const ManagePlaylistsModal: React.FC<ManagePlaylistsModalProps> = ({ onClose }) 
 
   const modalContent = isMobile ? (
     <div className="modal-overlay" onClick={onClose}>
-      <div className="modal-content manage-playlists-modal" style={{ borderRadius: 0, width: '100vw', minHeight: '100vh', maxWidth: '100vw', padding: '2rem 1rem', top: 0, left: 0 }} onClick={e => e.stopPropagation()}>
-        <button className="modal-close" onClick={onClose} style={{ right: '1rem', top: '1rem', position: 'absolute' }}>
+      <div className="modal-content manage-playlists-modal" onClick={e => e.stopPropagation()}>
+        <button className="modal-close" onClick={onClose}>
           <X size={28} />
         </button>
-        <h2 className="modal-title" style={{ textAlign: 'center', marginTop: '2.5rem' }}>Manage Playlists</h2>
-        <div className="manage-playlists-list" style={{ marginTop: '2rem' }}>
+        <h2 className="modal-title">Manage Playlists</h2>
+        <div className="manage-playlists-list">
           {playlists.length === 0 ? (
             <div className="manage-playlists-empty">No playlists yet</div>
           ) : (

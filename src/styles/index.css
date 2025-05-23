@@ -2585,16 +2585,17 @@ body {
   font-size: 1.5rem;
   color: var(--primary-text);
   margin-bottom: 1.5rem;
+  text-align: center;
 }
 
 .modal-input {
   width: 100%;
-  padding: 0.875rem 1rem;
+  padding: 1rem;
   background: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 0.5rem;
   color: var(--primary-text);
-  font-size: 1rem;
+  font-size: 1.1rem;
   transition: all 0.2s ease;
 }
 
@@ -2611,15 +2612,30 @@ body {
 }
 
 .modal-submit {
-  padding: 0.75rem 2rem;
-  background: linear-gradient(90deg, #ff4ecd 0%, #7c3aed 100%);
-  border: none;
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.1rem;
   border-radius: 2rem;
-  color: white;
-  font-weight: 600;
-  cursor: pointer;
-  position: relative;
-  transition: box-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.manage-playlists-list {
+  margin-top: 1rem;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+@media (max-width: 768px) {
+  .modal-content {
+    padding: 1.5rem;
+  }
+  
+  .modal-title {
+    margin-top: 0.5rem;
+  }
+  
+  .manage-playlists-list {
+    max-height: 50vh;
+  }
 }
 
 .modal-submit:hover {
@@ -3543,6 +3559,10 @@ body {
     width: 90vw !important;
     max-width: 400px !important;
     min-width: 0 !important;
+    max-height: 90vh !important;
+    overflow-y: auto !important;
+    display: flex !important;
+    flex-direction: column !important;
   }
 
   .artist-page {

@@ -39,12 +39,12 @@ const CreatePlaylistModal: React.FC<CreatePlaylistModalProps> = ({ onClose }) =>
 
   const modalContent = isMobile ? (
     <div className="modal-overlay" onClick={onClose}>
-      <div className="modal-content" style={{ borderRadius: 0, width: '100vw', minHeight: '100vh', maxWidth: '100vw', padding: '2rem 1rem', top: 0, left: 0 }} onClick={e => e.stopPropagation()}>
-        <button className="modal-close" onClick={onClose} style={{ right: '1rem', top: '1rem', position: 'absolute' }}>
+      <div className="modal-content" onClick={e => e.stopPropagation()}>
+        <button className="modal-close" onClick={onClose}>
           <X size={28} />
         </button>
-        <h2 className="modal-title" style={{ textAlign: 'center', marginTop: '2.5rem' }}>Create Playlist</h2>
-        <form onSubmit={handleSubmit} style={{ marginTop: '2rem', display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+        <h2 className="modal-title">Create Playlist</h2>
+        <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
           <input
             type="text"
             value={playlistName}
@@ -53,9 +53,8 @@ const CreatePlaylistModal: React.FC<CreatePlaylistModalProps> = ({ onClose }) =>
             placeholder="Enter playlist name"
             className="modal-input"
             autoFocus
-            style={{ fontSize: '1.1rem', padding: '1rem', borderRadius: '0.5rem' }}
           />
-          <button type="submit" className="modal-submit" disabled={!playlistName.trim()} style={{ width: '100%', fontSize: '1.1rem', padding: '1rem', borderRadius: '2rem' }}>
+          <button type="submit" className="modal-submit" disabled={!playlistName.trim()}>
             <span>Create</span>
           </button>
         </form>
