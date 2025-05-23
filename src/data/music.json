@@ -1,0 +1,494 @@
+{
+  "musics": [
+    {
+      "id": "1",
+      "song": {
+        "id": "1",
+        "title": "Slow Life",
+        "artist": "Benjamin Lazzarus",
+        "musicArt": "https://cdn.bensound.com/image/cover/benjaminlazzarus-theone-X2.webp",
+        "duration": 237,
+        "musicSrc": "https://cdn.bensound.com/bensound-slowlife.mp3"
+      }
+    },
+    {
+      "id": "2",
+      "song": {
+        "id": "2",
+        "title": "Dawn of Change",
+        "artist": "Roman Senyk",
+        "musicArt": "https://cdn.bensound.com/image/cover/romansenyk-evergreen-X2.webp",
+        "duration": 117,
+        "musicSrc": "https://cdn.bensound.com/bensound-dawnofchange.mp3"
+      }
+    },
+    {
+      "id": "3",
+      "song": {
+        "id": "3",
+        "title": "Hope",
+        "artist": "Hugo Dujardin",
+        "musicArt": "https://cdn.bensound.com/image/cover/hugodujardin-hope-X2.webp",
+        "duration": 113,
+        "musicSrc": "https://cdn.bensound.com/bensound-hope.mp3"
+      }
+    },
+    {
+      "id": "4",
+      "song": {
+        "id": "4",
+        "title": "Yesterday",
+        "artist": "Aventure",
+        "musicArt": "https://cdn.bensound.com/image/cover/aventure-longnight-X2.webp",
+        "duration": 168,
+        "musicSrc": "https://cdn.bensound.com/bensound-yesterday.mp3"
+      }
+    },
+    {
+      "id": "5",
+      "song": {
+        "id": "5",
+        "title": "Hearty",
+        "artist": "Aventure",
+        "musicArt": "https://cdn.bensound.com/image/cover/aventure-longnight-X2.webp",
+        "duration": 154,
+        "musicSrc": "https://cdn.bensound.com/bensound-hearty.mp3"
+      }
+    },
+    {
+      "id": "6",
+      "song": {
+        "id": "6",
+        "title": "Floating Garden",
+        "artist": "Aventure",
+        "musicArt": "https://cdn.bensound.com/image/cover/aventure-longnight-X2.webp",
+        "duration": 182,
+        "musicSrc": "https://cdn.bensound.com/bensound-floatinggarden.mp3"
+      }
+    },
+    {
+      "id": "7",
+      "song": {
+        "id": "7",
+        "title": "Angels By My Side",
+        "artist": "Lunar Years",
+        "musicArt": "https://cdn.bensound.com/image/cover/lunaryears-simplepleasures-X2.webp",
+        "duration": 173,
+        "musicSrc": "https://cdn.bensound.com/bensound-angelsbymyside.mp3"
+      }
+    },
+    {
+      "id": "8",
+      "song": {
+        "id": "8",
+        "title": "Moonlight Drive",
+        "artist": "Yunior Arronte",
+        "musicArt": "https://cdn.bensound.com/image/cover/yuniorarronte-rainyday-X2.webp",
+        "duration": 249,
+        "musicSrc": "https://cdn.bensound.com/bensound-moonlightdrive.mp3"
+      }
+    },
+    {
+      "id": "9",
+      "song": {
+        "id": "9",
+        "title": "Long Night",
+        "artist": "Aventure",
+        "musicArt": "https://cdn.bensound.com/image/cover/aventure-longnight-X2.webp",
+        "duration": 174,
+        "musicSrc": "https://cdn.bensound.com/bensound-longnight.mp3"
+      }
+    },
+    {
+      "id": "10",
+      "song": {
+        "id": "10",
+        "title": "Echo of Sadness",
+        "artist": "TURNIQUE",
+        "musicArt": "https://cdn.bensound.com/image/cover/turnique-echoofsadness-X2.webp",
+        "duration": 139,
+        "musicSrc": "https://cdn.bensound.com/bensound-echoofsadness.mp3"
+      }
+    },
+    {
+      "id": "11",
+      "song": {
+        "id": "11",
+        "title": "Prism",
+        "artist": "Theatre Of Delays",
+        "musicArt": "https://cdn.bensound.com/image/cover/theatreofdelays-prism-X2.webp",
+        "duration": 211,
+        "musicSrc": "https://cdn.bensound.com/bensound-prism.mp3"
+      }
+    },
+    {
+      "id": "12",
+      "song": {
+        "id": "12",
+        "title": "Cozy Coffeehouse",
+        "artist": "Lunar Years",
+        "musicArt": "https://cdn.bensound.com/image/cover/lunaryears-simplepleasures-X2.webp",
+        "duration": 110,
+        "musicSrc": "https://cdn.bensound.com/bensound-cozycoffeehouse.mp3"
+      }
+    },
+    {
+      "id": "13",
+      "song": {
+        "id": "13",
+        "title": "Sleepless",
+        "artist": "Diffie Bosman",
+        "musicArt": "https://cdn.bensound.com/image/cover/diffiebosman-winterbeams-X2.webp",
+        "duration": 154,
+        "musicSrc": "https://cdn.bensound.com/bensound-sleepless.mp3"
+      }
+    },
+    {
+      "id": "14",
+      "song": {
+        "id": "14",
+        "title": "Melancholy Lull",
+        "artist": "Vital",
+        "musicArt": "https://cdn.bensound.com/image/cover/vital-morningcoffee-X2.webp",
+        "duration": 136,
+        "musicSrc": "https://cdn.bensound.com/bensound-melancholylull.mp3"
+      }
+    },
+    {
+      "id": "15",
+      "song": {
+        "id": "15",
+        "title": "On Repeat",
+        "artist": "Marcus P.",
+        "musicArt": "https://cdn.bensound.com/image/cover/marcus-warmmemory-X2.webp",
+        "duration": 136,
+        "musicSrc": "https://cdn.bensound.com/bensound-onrepeat.mp3"
+      }
+    },
+    {
+      "id": "16",
+      "song": {
+        "id": "16",
+        "title": "Rhythm Magnet",
+        "artist": "Marcus P.",
+        "musicArt": "https://cdn.bensound.com/image/cover/marcus-warmmemory-X2.webp",
+        "duration": 137,
+        "musicSrc": "https://cdn.bensound.com/bensound-rhythmmagnet.mp3"
+      }
+    },
+    {
+      "id": "17",
+      "song": {
+        "id": "17",
+        "title": "By My Side",
+        "artist": "Marcus P.",
+        "musicArt": "https://cdn.bensound.com/image/cover/marcus-warmmemory-X2.webp",
+        "duration": 141,
+        "musicSrc": "https://cdn.bensound.com/bensound-bymyside.mp3"
+      }
+    },
+    {
+      "id": "18",
+      "song": {
+        "id": "18",
+        "title": "Last Stop",
+        "artist": "Dreamt",
+        "musicArt": "https://cdn.bensound.com/image/cover/dreamt-shelter-X2.webp",
+        "duration": 142,
+        "musicSrc": "https://cdn.bensound.com/bensound-laststop.mp3"
+      }
+    },
+    {
+      "id": "19",
+      "song": {
+        "id": "19",
+        "title": "Scream Villain",
+        "artist": "The Fable",
+        "musicArt": "https://cdn.bensound.com/image/cover/thefable-1-X2.webp",
+        "duration": 113,
+        "musicSrc": "https://cdn.bensound.com/bensound-screamvillain.mp3"
+      }
+    },
+    {
+      "id": "20",
+      "song": {
+        "id": "20",
+        "title": "The Inside",
+        "artist": "Benjamin Lazzarus",
+        "musicArt": "https://cdn.bensound.com/image/cover/benjaminlazzarus-theone-X2.webp",
+        "duration": 341,
+        "musicSrc": "https://cdn.bensound.com/bensound-theinside.mp3"
+      }
+    },
+    {
+      "id": "21",
+      "song": {
+        "id": "21",
+        "title": "Fireside Chat",
+        "artist": "Yunior Arronte",
+        "musicArt": "https://cdn.bensound.com/image/cover/yuniorarronte-sway-X2.webp",
+        "duration": 231,
+        "musicSrc": "https://cdn.bensound.com/bensound-firesidechat.mp3"
+      }
+    },
+    {
+      "id": "22",
+      "song": {
+        "id": "22",
+        "title": "Motion",
+        "artist": "Theatre Of Delays",
+        "musicArt": "https://cdn.bensound.com/image/cover/theatreofdelays-motion-X2.webp",
+        "duration": 205,
+        "musicSrc": "https://cdn.bensound.com/bensound-motion.mp3"
+      }
+    },
+    {
+      "id": "23",
+      "song": {
+        "id": "23",
+        "title": "The Light Between Us",
+        "artist": "Shaydow",
+        "musicArt": "https://cdn.bensound.com/image/cover/shaydow-stages-X2.webp",
+        "duration": 184,
+        "musicSrc": "https://cdn.bensound.com/bensound-thelightbetweenus.mp3"
+      }
+    },
+    {
+      "id": "24",
+      "song": {
+        "id": "24",
+        "title": "Nothing On",
+        "artist": "Diffie Bosman",
+        "musicArt": "https://cdn.bensound.com/image/cover/diffiebosman-asyourworld-X2.webp",
+        "duration": 189,
+        "musicSrc": "https://cdn.bensound.com/bensound-nothingon.mp3"
+      }
+    },
+    {
+      "id": "25",
+      "song": {
+        "id": "25",
+        "title": "As Your World Grows Smaller",
+        "artist": "Diffie Bosman",
+        "musicArt": "https://cdn.bensound.com/image/cover/diffiebosman-asyourworld-X2.webp",
+        "duration": 173,
+        "musicSrc": "https://cdn.bensound.com/bensound-asyourworldgrowssmaller.mp3"
+      }
+    },
+    {
+      "id": "26",
+      "song": {
+        "id": "26",
+        "title": "Troubling Unknown",
+        "artist": "FoePound",
+        "musicArt": "https://cdn.bensound.com/image/cover/foepound-troublingunknown-X2.webp",
+        "duration": 122,
+        "musicSrc": "https://cdn.bensound.com/bensound-troublingunknown.mp3"
+      }
+    },
+    {
+      "id": "27",
+      "song": {
+        "id": "27",
+        "title": "Long Trip",
+        "artist": "Hugo Dujardin",
+        "musicArt": "https://cdn.bensound.com/image/cover/hugodujardin-hope-X2.webp",
+        "duration": 130,
+        "musicSrc": "https://cdn.bensound.com/bensound-longtrip.mp3"
+      }
+    },
+    {
+      "id": "28",
+      "song": {
+        "id": "28",
+        "title": "Vanishing Hope",
+        "artist": "FoePound",
+        "musicArt": "https://cdn.bensound.com/image/cover/foepound-vanishinghope-X2.webp",
+        "duration": 129,
+        "musicSrc": "https://cdn.bensound.com/bensound-vanishinghope.mp3"
+      }
+    },
+    {
+      "id": "29",
+      "song": {
+        "id": "29",
+        "title": "New Frontier",
+        "artist": "Lunar Years",
+        "musicArt": "https://cdn.bensound.com/image/cover/lunaryears-simplepleasures-X2.webp",
+        "duration": 155,
+        "musicSrc": "https://cdn.bensound.com/bensound-newfrontier.mp3"
+      }
+    },
+    {
+      "id": "30",
+      "song": {
+        "id": "30",
+        "title": "Keep It Real",
+        "artist": "Nick Petrov",
+        "musicArt": "https://cdn.bensound.com/image/cover/nickpetrov-dreamland-X2.webp",
+        "duration": 141,
+        "musicSrc": "https://cdn.bensound.com/bensound-keepitreal.mp3"
+      }
+    }
+  ],
+  "featuredMusics": [
+    {
+      "id": "featured-1",
+      "song": {
+        "id": "8",
+        "title": "Moonlight Drive",
+        "artist": "Yunior Arronte",
+        "musicArt": "https://cdn.bensound.com/image/cover/yuniorarronte-rainyday-X2.webp",
+        "duration": 249,
+        "musicSrc": "https://cdn.bensound.com/bensound-moonlightdrive.mp3"
+      }
+    },
+    {
+      "id": "featured-2",
+      "song": {
+        "id": "11",
+        "title": "Prism",
+        "artist": "Theatre Of Delays",
+        "musicArt": "https://cdn.bensound.com/image/cover/theatreofdelays-prism-X2.webp",
+        "duration": 211,
+        "musicSrc": "https://cdn.bensound.com/bensound-prism.mp3"
+      }
+    },
+    {
+      "id": "featured-3",
+      "song": {
+        "id": "23",
+        "title": "The Light Between Us",
+        "artist": "Shaydow",
+        "musicArt": "https://cdn.bensound.com/image/cover/shaydow-stages-X2.webp",
+        "duration": 184,
+        "musicSrc": "https://cdn.bensound.com/bensound-thelightbetweenus.mp3"
+      }
+    },
+    {
+      "id": "featured-4",
+      "song": {
+        "id": "29",
+        "title": "New Frontier",
+        "artist": "Lunar Years",
+        "musicArt": "https://cdn.bensound.com/image/cover/lunaryears-simplepleasures-X2.webp",
+        "duration": 155,
+        "musicSrc": "https://cdn.bensound.com/bensound-newfrontier.mp3"
+      }
+    }
+  ],
+  "artists": [
+    {
+      "id": "aventure",
+      "name": "Aventure",
+      "photo": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?w=800",
+      "bgColor": "#ec4899",
+      "bgColorLight": "#ec489933"
+    },
+    {
+      "id": "marcus-p",
+      "name": "Marcus P.",
+      "photo": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800",
+      "bgColor": "#a855f7",
+      "bgColorLight": "#a855f733"
+    },
+    {
+      "id": "lunar-years",
+      "name": "Lunar Years",
+      "photo": "https://images.unsplash.com/photo-1598387993441-a364f854c3e1?w=800",
+      "bgColor": "#8b5cf6",
+      "bgColorLight": "#8b5cf633"
+    },
+    {
+      "id": "diffie-bosman",
+      "name": "Diffie Bosman",
+      "photo": "https://images.unsplash.com/photo-1549213783-8284d0336c4f?w=800",
+      "bgColor": "#22c55e",
+      "bgColorLight": "#22c55e33"
+    },
+    {
+      "id": "foepound",
+      "name": "FoePound",
+      "photo": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=800",
+      "bgColor": "#84cc16",
+      "bgColorLight": "#84cc1633"
+    },
+    {
+      "id": "benjamin-lazzarus",
+      "name": "Benjamin Lazzarus",
+      "photo": "https://images.unsplash.com/photo-1558584673-c834fb1cc3ca?w=800",
+      "bgColor": "#059669",
+      "bgColorLight": "#05966933"
+    },
+    {
+      "id": "roman-senyk",
+      "name": "Roman Senyk",
+      "photo": "https://images.unsplash.com/photo-1593697821028-7cc59cfd7399?w=800",
+      "bgColor": "#2563eb",
+      "bgColorLight": "#2563eb33"
+    },
+    {
+      "id": "hugo-dujardin",
+      "name": "Hugo Dujardin",
+      "photo": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?w=800",
+      "bgColor": "#d97706",
+      "bgColorLight": "#d9770633"
+    },
+    {
+      "id": "theatre-of-delays",
+      "name": "Theatre Of Delays",
+      "photo": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800",
+      "bgColor": "#0891b2",
+      "bgColorLight": "#0891b233"
+    },
+    {
+      "id": "shaydow",
+      "name": "Shaydow",
+      "photo": "https://images.unsplash.com/photo-1599467556385-48b57868f038?w=800",
+      "bgColor": "#c026d3",
+      "bgColorLight": "#c026d333"
+    },
+    {
+      "id": "vital",
+      "name": "Vital",
+      "photo": "https://images.unsplash.com/photo-1508973379184-7517410fb0bc?w=800",
+      "bgColor": "#ca8a04",
+      "bgColorLight": "#ca8a0433"
+    },
+    {
+      "id": "the-fable",
+      "name": "The Fable",
+      "photo": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800",
+      "bgColor": "#0284c7",
+      "bgColorLight": "#0284c733"
+    },
+    {
+      "id": "yunior-arronte",
+      "name": "Yunior Arronte",
+      "photo": "https://images.unsplash.com/photo-1594623930572-300a3011d9ae?w=800",
+      "bgColor": "#0d9488",
+      "bgColorLight": "#0d948833"
+    },
+    {
+      "id": "turnique",
+      "name": "TURNIQUE",
+      "photo": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800",
+      "bgColor": "#e11d48",
+      "bgColorLight": "#e11d4833"
+    },
+    {
+      "id": "nick-petrov",
+      "name": "Nick Petrov",
+      "photo": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800",
+      "bgColor": "#4f46e5",
+      "bgColorLight": "#4f46e533"
+    },
+    {
+      "id": "dreamt",
+      "name": "Dreamt",
+      "photo": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+      "bgColor": "#ea580c",
+      "bgColorLight": "#ea580c33"
+    }
+  ]
+} 
